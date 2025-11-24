@@ -1,0 +1,91 @@
+@media screen and (min-width: 480px){    
+
+body{
+    background-color: #7aafd6;
+    background-image: url(Circuits2.png);
+    background-size: 100%;
+    background-position-y: 20%;
+}
+
+h1{
+    color: #7aafd6;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right:10px;
+    background-repeat: no-repeat;
+    background-position:bottom;
+    font-size: 150px;
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    -webkit-text-stroke-color: white;
+    -webkit-text-stroke-width:thin;
+}
+
+h1.h1A{
+    margin-bottom: -10px;
+}
+
+h1.h1B{
+    margin-top: -10px;
+    font-size: 75px;
+}
+
+div{
+    margin: 20px;
+    align-content: center;
+}
+
+button{
+    position:relative;
+    top: 50%;
+    left: 16.5vw;
+    width: 30vw;
+    height: 25vh;
+    margin: 1vw;
+    background-color: black;
+    color: #7aafd6;
+    border-color: white;
+    border-width: 5px;
+    font-size: 4vw;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+button.ButtonA {
+    background-image: url(Pong.png);
+    background-position-y: 15%;
+    color:white;
+    text-indent: -1%;
+}
+
+button.ButtonB {
+    background-image: url(Breakout.png);
+    background-position-y: 40%;
+    color:white;
+}
+
+button.ButtonC {
+    background-image: url(Snake.png);
+    background-position-y: 50%;
+    color:white;
+}
+
+button.ButtonD {
+    background-image: url(Pacman.png);
+    background-position-y: 40%;
+    color:black;
+    text-align: left;
+}
+
+p{
+    color: orange;
+}
+
+p.p1{
+    color:black;
+}
+
+p.p2{
+    color:white;
+}
+}
