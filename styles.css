@@ -71,7 +71,7 @@ button.ButtonC {
 }
 
 button.ButtonD {
-    background-image: url(Pacman.png);
+    background-image: url(tetris.svg);
     background-position-y: 40%;
     color:black;
     text-align: left;
