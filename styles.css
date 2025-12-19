@@ -65,7 +65,7 @@ button.ButtonB {
 }
 
 button.ButtonC {
-    background-image: url(Snake.png);
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Snake.png);
     background-position-y: 50%;
     color:white;
 }
@@ -79,7 +79,7 @@ button.ButtonD {
 
 button.ButtonE{
     left:32.5vw;
-    background-image: url(Pacman.png);
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Pacman.png);
     background-position-y: 0%;
     color: black;
     text-align: left;
