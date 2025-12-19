@@ -80,7 +80,7 @@ button.ButtonD {
 button.ButtonE{
     left:32.5vw;
     background-image: url(Pacman.png);
-    background-position-y: 40%;
+    background-position-y: 0%;
     color: black;
     text-align: left;
 }
