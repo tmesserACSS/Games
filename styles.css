@@ -52,35 +52,45 @@ button{
 }
 
 button.ButtonA {
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Pong.png);
     background-image: url(Pong.png);
-    background-position-y: 15%;
+    background-position-y: center;
+    background-size: 100%;
     color:white;
     text-indent: -1%;
 }
 
 button.ButtonB {
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Breakout.png);
     background-image: url(Breakout.png);
-    background-position-y: 40%;
+    background-position-y: center;
+    background-size: 100%;
     color:white;
 }
 
 button.ButtonC {
     background-image: url(https://github.com/tmesserACSS/Games/blob/main/Snake.png);
-    background-position-y: 50%;
+    background-image: url(Snake.png);
+    background-position-y: center;
+    background-size: 100%;
     color:white;
 }
 
 button.ButtonD {
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/tetris.svg);
     background-image: url(tetris.svg);
-    background-position-y: 40%;
-    color:black;
+    background-position-y: center;
+    background-size: 100%;
+    color: black;
     text-align: left;
 }
 
 button.ButtonE{
     left:32.5vw;
-    /*background-image: url(https://github.com/tmesserACSS/Games/blob/main/Pacman.png);
-    background-position-y: 0%;*/
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Pacman.png);
+    background-image: url(Pacman.png);
+    background-position-y: center;
+    background-size: 100%;
     color: black;
     text-align: left;
 }
