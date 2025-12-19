@@ -77,6 +77,14 @@ button.ButtonD {
     text-align: left;
 }
 
+button.ButtonE{
+    left:32.5vw;
+    background-image: url(pacman.png);
+    background-position-y: 40%;
+    color: black;
+    text-align: left;
+}
+
 p{
     color: orange;
 }
