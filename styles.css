@@ -1,5 +1,3 @@
-@media screen and (min-width: 480px){    
-
 body{
     background-color: #7aafd6;
 
@@ -7,6 +5,11 @@ body{
     background-image: url(Circuits2.png);
     background-size: 100%;
     background-position-y: 20%;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
 }
 
 h1{
@@ -33,39 +36,45 @@ h1.h1B{
 }
 
 div{
-    margin: 20px;
-    align-content: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-wrap: wrap;
 }
 
 button{
-    position:relative;
-    top: 50%;
-    left: 16.5vw;
-    width: 30vw;
-    height: 25vh;
-    margin: 1vw;
+    width: 662px;
+    height: 252px;
+
+    margin: 10px;
+
     background-color: black;
     color: #7aafd6;
+
     border-color: white;
     border-width: 5px;
-    font-size: 4vw;
-    background-size: 100%;
+
+    font-size: 48px;
+
+    background-size: cover;
     background-repeat: no-repeat;
+    background-position: center;
 }
 
 button.ButtonA {
     background-image: url(https://github.com/tmesserACSS/Games/blob/main/Pong.png);
     background-image: url(Pong.png);
-    background-position-y: center;
+    background-position-y: 15%;
     background-size: 100%;
     color:white;
-    text-indent: -1%;
+    text-indent: -0.1%;
 }
 
 button.ButtonB {
     background-image: url(https://github.com/tmesserACSS/Games/blob/main/Breakout.png);
     background-image: url(Breakout.png);
-    background-position-y: center;
+    background-position-y: 35%;
     background-size: 100%;
     color:white;
 }
@@ -73,7 +82,7 @@ button.ButtonB {
 button.ButtonC {
     background-image: url(https://github.com/tmesserACSS/Games/blob/main/Snake.png);
     background-image: url(Snake.png);
-    background-position-y: center;
+    background-position-y: 55%;
     background-size: 100%;
     color:white;
 }
@@ -88,7 +97,6 @@ button.ButtonD {
 }
 
 button.ButtonE{
-    left:32.5vw;
     background-image: url(https://github.com/tmesserACSS/Games/blob/main/Pacman.png);
     background-image: url(Pacman.png);
     background-position-y: center;
@@ -107,5 +115,4 @@ p.p1{
 
 p.p2{
     color:white;
-}
 }
