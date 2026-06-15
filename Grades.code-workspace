@@ -2,9 +2,9 @@
 	"folders": [
 		{
 			"path": "."
-		},
-		{
-			"path": "../../../../Downloads/Puzzle"
 		}
-	]
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Games"
+	}
 }
