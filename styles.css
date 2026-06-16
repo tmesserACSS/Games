@@ -80,16 +80,16 @@ button.ButtonB {
 }
 
 button.ButtonC {
-    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Snake.png);
-    background-image: url(Snake.png);
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Breakout.png);
+    background-image: url(Breakout.png);
     background-position-y: 55%;
     background-size: 100%;
     color:white;
 }
 
 button.ButtonD {
-    background-image: url(https://github.com/tmesserACSS/Games/blob/main/tetris.svg);
-    background-image: url(tetris.svg);
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/AlienPong.png);
+    background-image: url(AlienPong.png);
     background-position-y: center;
     background-size: 100%;
     color: black;
@@ -97,8 +97,17 @@ button.ButtonD {
 }
 
 button.ButtonE{
-    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Pacman.png);
-    background-image: url(Pacman.png);
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/RyanPong.png);
+    background-image: url(RyanPong.png);
+    background-position-y: center;
+    background-size: 100%;
+    color: black;
+    text-align: left;
+}
+
+button.ButtonF{
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/MichaelSnake.png);
+    background-image: url(MichaelSnake.png);
     background-position-y: center;
     background-size: 100%;
     color: black;
