@@ -50,7 +50,7 @@ button{
     margin: 10px;
 
     background-color: black;
-    color: #7aafd6;
+    color: white;
 
     border-color: white;
     border-width: 5px;
@@ -67,8 +67,6 @@ button.ButtonA {
     background-image: url(jason.jpg);
     background-position-y: 50%;
     background-size: 60%;
-    background-color: #29662d;
-    color:white;
 }
 
 button.ButtonB {
@@ -76,7 +74,6 @@ button.ButtonB {
     background-image: url(JacobTetris.png);
     background-position-y: 35%;
     background-size: 100%;
-    color:white;
 }
 
 button.ButtonC {
@@ -84,7 +81,6 @@ button.ButtonC {
     background-image: url(Breakout.png);
     background-position-y: 55%;
     background-size: 100%;
-    color:white;
 }
 
 button.ButtonD {
@@ -92,8 +88,6 @@ button.ButtonD {
     background-image: url(AlienPong.png);
     background-position-y: center;
     background-size: 100%;
-    color: black;
-    text-align: left;
 }
 
 button.ButtonE{
@@ -101,8 +95,6 @@ button.ButtonE{
     background-image: url(BenSnake.png);
     background-position-y: center;
     background-size: 100%;
-    color: black;
-    text-align: left;
 }
 
 button.ButtonF{
@@ -110,9 +102,15 @@ button.ButtonF{
     background-image: url(MichaelSnake.png);
     background-position-y: center;
     background-size: 100%;
-    color: black;
-    text-align: left;
 }
+
+/*button.ButtonG{
+    
+}*/
+
+/*button.ButtonH{
+    
+}*/
 
 p{
     color: orange;
