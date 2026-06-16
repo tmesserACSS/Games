@@ -63,15 +63,15 @@ button{
 }
 
 button.ButtonA {
-    background-image: url(https://github.com/tmesserACSS/Games/blob/main/jason.jpg);
-    background-image: url(jason.jpg);
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Sam.jpg);
+    background-image: url(Sam.jpg);
     background-position-y: 50%;
     background-size: 60%;
 }
 
 button.ButtonB {
-    background-image: url(https://github.com/tmesserACSS/Games/blob/main/JacobTetris.png);
-    background-image: url(JacobTetris.png);
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Snake.png);
+    background-image: url(Snake.png);
     background-position-y: 35%;
     background-size: 100%;
 }
