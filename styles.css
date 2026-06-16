@@ -63,8 +63,8 @@ button{
 }
 
 button.ButtonA {
-    background-image: url(https://github.com/tmesserACSS/Games/blob/main/BenSnake.png);
-    background-image: url(BenSnake.png);
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/jason.jpg);
+    background-image: url(jason.jpg);
     background-position-y: 50%;
     background-size: 60%;
     background-color: #29662d;
@@ -97,8 +97,8 @@ button.ButtonD {
 }
 
 button.ButtonE{
-    background-image: url(https://github.com/tmesserACSS/Games/blob/main/RyanPong.png);
-    background-image: url(RyanPong.png);
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/BenSnake.png);
+    background-image: url(BenSnake.png);
     background-position-y: center;
     background-size: 100%;
     color: black;
