@@ -77,8 +77,8 @@ button.ButtonB {
 }
 
 button.ButtonC {
-    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Breakout.png);
-    background-image: url(Breakout.png);
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Pacman.png);
+    background-image: url(Pacman.png);
     background-position-y: 55%;
     background-size: 100%;
 }
@@ -104,13 +104,19 @@ button.ButtonF{
     background-size: 100%;
 }
 
-/*button.ButtonG{
-    
-}*/
+button.ButtonG{
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/jason.jpg);
+    background-image: url(jason.jpg);
+    background-position-y: center;
+    background-size: 100%;
+}
 
-/*button.ButtonH{
-    
-}*/
+button.ButtonH{
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Pacman.png);
+    background-image: url(Pacman.png);
+    background-position-y: 55%;
+    background-size: 100%;
+}
 
 p{
     color: orange;
