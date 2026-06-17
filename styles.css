@@ -66,51 +66,58 @@ button.ButtonA {
     background-image: url(https://github.com/tmesserACSS/Games/blob/main/Sam.jpg);
     background-image: url(Sam.jpg);
     background-position-y: 50%;
-    background-size: 60%;
+    background-color: #02b30a;
+    background-size: 70%;
 }
 
 button.ButtonB {
     background-image: url(https://github.com/tmesserACSS/Games/blob/main/Snake.png);
     background-image: url(Snake.png);
-    background-position-y: 35%;
+    background-position-y: 50%;
     background-size: 100%;
 }
 
 button.ButtonC {
-    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Breakout.png);
-    background-image: url(Breakout.png);
-    background-position-y: 55%;
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/JJWorm.png);
+    background-image: url(JJWorm.png);
+    background-position-y: 50%;
     background-size: 100%;
 }
 
 button.ButtonD {
-    background-image: url(https://github.com/tmesserACSS/Games/blob/main/AlienPong.png);
-    background-image: url(AlienPong.png);
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Ryley.jpg);
+    background-image: url(Ryley.jpg);
     background-position-y: center;
     background-size: 100%;
 }
 
 button.ButtonE{
-    background-image: url(https://github.com/tmesserACSS/Games/blob/main/BenSnake.png);
-    background-image: url(BenSnake.png);
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Nathan.png);
+    background-image: url(Nathan.png);
     background-position-y: center;
     background-size: 100%;
 }
 
 button.ButtonF{
-    background-image: url(https://github.com/tmesserACSS/Games/blob/main/MichaelSnake.png);
-    background-image: url(MichaelSnake.png);
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Liam.png);
+    background-image: url(Liam.png);
     background-position-y: center;
     background-size: 100%;
 }
 
-/*button.ButtonG{
-    
-}*/
+button.ButtonG{
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Zoe.png);
+    background-image: url(Zoe.png);
+    background-position-y: center;
+    background-size: 100%;   
+}
 
-/*button.ButtonH{
-    
-}*/
+button.ButtonH{
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/AlienPong.png);
+    background-image: url(AlienPong.png);
+    background-position-y: center;
+    background-size: 100%;
+}
 
 p{
     color: orange;
