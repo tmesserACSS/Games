@@ -156,6 +156,13 @@ button.ButtonM{
     background-size: 100%;
 }
 
+button.ButtonN{
+    background-image: url(https://github.com/tmesserACSS/Games/blob/main/Pacman.png);
+    background-image: url(Pacman.png);
+    background-position-y: 50%;
+    background-size: 100%;
+}
+
 p{
     color: orange;
 }
